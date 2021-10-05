@@ -9,3 +9,5 @@ pkg
 log
 test/tmp/*
 gemfiles/*.lock
+
+.idea
